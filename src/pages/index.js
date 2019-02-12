@@ -25,7 +25,7 @@ export default ({ data }) => {
                 text-decoration: none;
                 color: inherit;
               `
-}
+              }
             >
               <h3
                 css={css`
